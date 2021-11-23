@@ -49,7 +49,7 @@ body {
 
 /*----------------------------------- CONTAINER----------------------------------- */
 .container {
-  margin: 50px 20px;
+  margin: 50px 20px; /*For mobile screen*/
 }
 .container > h1 {
   text-align: center;
