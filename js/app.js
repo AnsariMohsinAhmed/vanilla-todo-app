@@ -148,5 +148,5 @@ btnClear.addEventListener('click', () => {
             hideLoader();
         })
 
-    
+
 });
